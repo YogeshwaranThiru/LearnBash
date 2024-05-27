@@ -1,0 +1,8 @@
+{
+    "name" : "Yogu",
+    "age" : 28,
+    "healthy": true,
+    "fav_colours" : ["blue" ,"black" ,"white"],
+    "body" : { "height" : 5.3, "weight": 68},
+    "ke": null
+}
